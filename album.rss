@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>PHOTOIMPACT 完成</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>slides/1.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="212" height="160"/>
+            <media:content type="image/jpeg" url="slides/1.jpg" width="660" height="499"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>slides/2.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.jpg" width="132" height="170"/>
+            <media:content type="image/jpeg" url="slides/2.jpg" width="620" height="800"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>2-1</title>
+            <link>slides/2-1.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2-1.jpg" width="170" height="170"/>
+            <media:content type="image/jpeg" url="slides/2-1.jpg" width="718" height="718"/>
+            <guid isPermaLink="false">slides/2-1.jpg</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>slides/3.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.jpg" width="132" height="170"/>
+            <media:content type="image/jpeg" url="slides/3.jpg" width="620" height="800"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>4</title>
+            <link>slides/4.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.jpg" width="132" height="170"/>
+            <media:content type="image/jpeg" url="slides/4.jpg" width="620" height="800"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>slides/7.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.jpg" width="212" height="141"/>
+            <media:content type="image/jpeg" url="slides/7.jpg" width="1000" height="667"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>slides/8.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8.jpg" width="212" height="164"/>
+            <media:content type="image/jpeg" url="slides/8.jpg" width="1000" height="774"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>slides/9.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9.jpg" width="118" height="170"/>
+            <media:content type="image/jpeg" url="slides/9.jpg" width="557" height="800"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>21</title>
+            <link>slides/21.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21.jpg" width="212" height="166"/>
+            <media:content type="image/jpeg" url="slides/21.jpg" width="764" height="598"/>
+            <guid isPermaLink="false">slides/21.jpg</guid>
+        </item>
+        <item>
+            <title>22</title>
+            <link>slides/22.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22.jpg" width="118" height="170"/>
+            <media:content type="image/jpeg" url="slides/22.jpg" width="556" height="800"/>
+            <guid isPermaLink="false">slides/22.jpg</guid>
+        </item>
+        <item>
+            <title>30</title>
+            <link>slides/30.jpg</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30.jpg" width="113" height="170"/>
+            <media:content type="image/jpeg" url="slides/30.jpg" width="530" height="800"/>
+            <guid isPermaLink="false">slides/30.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1226</title>
+            <link>slides/IMG_1226.JPG</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1226.JPG" width="171" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1226.JPG" width="643" height="641"/>
+            <guid isPermaLink="false">slides/IMG_1226.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_1227</title>
+            <link>slides/IMG_1227.JPG</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1227.JPG" width="171" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1227.JPG" width="639" height="637"/>
+            <guid isPermaLink="false">slides/IMG_1227.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_1228</title>
+            <link>slides/IMG_1228.JPG</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1228.JPG" width="113" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1228.JPG" width="531" height="800"/>
+            <guid isPermaLink="false">slides/IMG_1228.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_1229</title>
+            <link>slides/IMG_1229.JPG</link>
+            <pubDate>Fri, 26 May 2023 15:11:04 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1229.JPG" width="128" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1229.JPG" width="600" height="800"/>
+            <guid isPermaLink="false">slides/IMG_1229.JPG</guid>
+        </item>
+    </channel>
+</rss>
